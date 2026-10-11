@@ -1,12 +1,13 @@
-<!-- Animated wave header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kesava%20Chowdary&fontSize=48&fontAlignY=38&animation=fadeIn&desc=B.Tech%20%40%20IIT%20Hyderabad&descSize=18&descAlignY=58" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Kesava%20Chowdary&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=B.Tech%20%40%20IIT%20Hyderabad&descSize=18&descAlignY=58" alt="header" />
 </p>
 
-<!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=650&height=50&lines=Hi+there!+I'm+Kesava+👋;Civil+Engineer+→+Software+Developer;Python+%7C+DSA+%7C+LLMs;Building+Jarvis+Voice+Assistant;Building+an+LLM+from+scratch" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/Kesava-Chowdary/Kesava-Chowdary/main/typing.svg" alt="typing animation" />
 </p>
+
+## 👨‍💻 About me
+Civil Engineering student at IIT Hyderabad, moving into software and AI. I like building things from scratch to understand how they work.
 
 ## 🔨 What I'm building
 - **Jarvis**: a Python voice assistant
@@ -28,6 +29,7 @@
     <img alt="Contribution snake" src="https://raw.githubusercontent.com/Kesava-Chowdary/Kesava-Chowdary/output/github-snake.svg" />
   </picture>
 </p>
+
 ## 📈 Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kesava-Chowdary&show_icons=true&theme=tokyonight" alt="GitHub stats" />
@@ -40,7 +42,6 @@
   <a href="mailto:kesavachowdaryvedulla@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<!-- Animated wave footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" alt="footer" />
 </p>
