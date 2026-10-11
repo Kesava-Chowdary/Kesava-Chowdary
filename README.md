@@ -20,6 +20,14 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
+## 🐍 Contribution Snake
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kesava-Chowdary/Kesava-Chowdary/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kesava-Chowdary/Kesava-Chowdary/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Kesava-Chowdary/Kesava-Chowdary/output/github-snake.svg" />
+  </picture>
+</p>
 ## 📈 Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kesava-Chowdary&show_icons=true&theme=tokyonight" alt="GitHub stats" />
