@@ -33,7 +33,7 @@ Civil Engineering student at IIT Hyderabad, moving into software and AI. I like 
 ## 📈 Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kesava-Chowdary&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kesava-Chowdary&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kesava-Chowdary&layout=compact&theme=tokyonight&hide=html,css" alt="Top languages" />
 </p>
 
 ## 📫 Reach me
